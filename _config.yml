@@ -14,9 +14,9 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Vryez11 # the main title
+title: d이지원b # the main title
 
-tagline: 기록하며 성장하는 개발 블로그 # it will display as the subtitle
+tagline: Backend Engineering # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Vryez11의 개발 블로그입니다.
@@ -34,7 +34,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Vryez11
+  name: vryez11
   email: vryez11@gmail.com # change to your email address
   fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
