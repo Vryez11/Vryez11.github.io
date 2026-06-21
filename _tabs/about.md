@@ -15,16 +15,6 @@ order: 4
 하루의 의미를 기록하는 개인 스프린트입니다!
 ### [개인 스프린트](https://github.com/Vryez11/personal-sprint)
 
-## 학습 정리
-
-제 개인적인 학습 정리 저장소입니다 :)
-
-| 저장소 | 내용 |
-| --- | --- |
-| [java-play-ground](https://github.com/Vryez11/java-play-ground) | 자바 |
-| [db-study](https://github.com/Vryez11/db-study) | DB |
-| [spring-study](https://github.com/Vryez11/spring-study) | 스프링 |
-
 ##  기술 스택
 
 **언어**
@@ -35,8 +25,8 @@ order: 4
 **백엔드**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white)
 
 **데이터베이스**
 
