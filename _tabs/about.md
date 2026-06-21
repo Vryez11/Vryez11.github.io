@@ -10,32 +10,11 @@ order: 4
 
 기술을 이해하고, 직접 써보고, 솔직하게 기록합니다. 이 블로그는 그 과정을 남기는 공간입니다.
 
-## 개인 스프린트
-
-하루의 의미를 기록하는 개인 스프린트입니다!
-### [개인 스프린트](https://github.com/Vryez11/personal-sprint)
-
-##  기술 스택
-
-**언어**
-
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**백엔드**
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white)
-
-**데이터베이스**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ## 개인 스프린트
 
 하루의 의미를 기록하는 개인 스프린트입니다!
-### [개인 스프린트](https://github.com/Vryez11/personal-sprint)
+#### [개인 스프린트](https://github.com/Vryez11/personal-sprint)
 
 ## 학습 정리
 
